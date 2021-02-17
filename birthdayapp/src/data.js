@@ -22,13 +22,21 @@ export default [
   },
   {
     id: 4,
-    name: 'Sean Walsh',
-    age: 34,
+    name: 'Mercy Ankuma',
+    age: 23,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      'https://scontent.flos3-1.fna.fbcdn.net/v/t1.0-9/125091433_2799655126985139_2682991091825055045_o.jpg?_nc_cat=106&ccb=3&_nc_sid=09cbfe&_nc_eui2=AeE3md5IL-PRrgokn4tVLAMygetD-9UQdw-B60P71RB3D1_Uv7vu7UJ8ozZrsK8xo4rIFubmLt7glGlV8b84kefD&_nc_ohc=-04_GjE_w-MAX8ufYUH&_nc_ht=scontent.flos3-1.fna&oh=50c5901da0bb314594ec3dac10e006e9&oe=6052A694',
   },
   {
     id: 5,
+    name: 'David Samuel',
+    age: 18,
+    image:
+      'https://scontent.flos3-1.fna.fbcdn.net/v/t1.0-9/147942602_553326415626697_9139009826853514888_o.jpg?_nc_cat=100&ccb=3&_nc_sid=09cbfe&_nc_eui2=AeHIICzeEpd4RY4cNempM-oJP_eOmnWZT1A_946adZlPUKLvXBNY05WtbugzCXF5TbSXfjQqRsq9rDoockAd8EPN&_nc_ohc=Vy1ICaeX4t4AX_bj1V7&_nc_ht=scontent.flos3-1.fna&oh=23d41d6c64ee2c8fad3c18b865644a1b&oe=60506B1E',
+  },
+
+  {
+    id: 6,
     name: 'Lola Gardner',
     age: 29,
     image:
